@@ -1,0 +1,20 @@
+LIST 1:
+1. How to start from scratch and develop a whole application that is ready for production.
+2. How is docker used so far in the class, I have not really understood as to why we are currently using docker, I need a more practical understanding of how we can use it.
+3. The concept of origin and having remote branches confuses me, like why do we have remote branches why can't we just push to master branch instead of pushing to origin.
+4. What does rebasing mean when doing a merge?
+
+
+LIST 2:
+1. Pull requests and merging between branches
+2. Secret keys in the repository settings. For some reason my secret variables would not work, but I ended up making a docker authentication token and using that as my DOCKER_PASSWORD input, which solved my issue.
+3. How to use Github actions and debug issues
+
+
+LIST 3:
+1. More github
+2. React
+3. Dash
+4. CSS (Flexbox)
+5. Flux or Redux
+6. Figma/UX designing
